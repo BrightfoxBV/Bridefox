@@ -5,6 +5,8 @@
 # Salesforce cache
 .sfdx/
 .idea/
+.IlluminatedCloud/
+IlluminatedCloud
 
 # Logs
 logs
