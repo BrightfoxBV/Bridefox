@@ -6,6 +6,7 @@
 .sfdx/
 .idea/
 
+
 # Logs
 logs
 *.log

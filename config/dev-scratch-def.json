@@ -1,13 +1,24 @@
 {
   "orgName": "dev",
   "country": "NL",
-  "username": "jowin@brightfox.eu.dev",
-  "adminEmail": "jowin.waaijer@brightfox.eu",
   "edition": "Developer",
   "language": "en_US",
-  "features": [],
-  "orgPreferences": {
-    "enabled": [],
-    "disabled": []
+  "features": ["PersonAccounts","ContactsToMultipleAccounts", "StateAndCountryPicklist","Sites"],
+  "settings": {
+    "nameSettings": {
+      "enableMiddleName": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "languageSettings": {
+      "enableTranslationWorkbench": true
+    },
+    "emailAdministrationSettings": {
+      "enableEnhancedEmailEnabled": true
+    },
+    "chatterSettings": {
+      "enableChatter": true
+    }
   }
 }
